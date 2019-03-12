@@ -1,5 +1,6 @@
 {
   "name": "@drifthq/tide-docs-theme",
+  "private": true,
   "version": "1.0.1",
   "description": "The theme for the Tide Docs",
   "license": "MIT",
